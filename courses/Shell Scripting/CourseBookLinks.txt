@@ -1,0 +1,6 @@
+Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming
+
+
+Course Book: https://www.amazon.in/gp/product/B015FZAXU6/ref=dbs_a_def_rwt_bibl_vppi_i0
+
+Other Books by Author: https://www.linuxtrainingacademy.com/books/
